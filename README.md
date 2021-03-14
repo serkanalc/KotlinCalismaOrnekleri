@@ -4,13 +4,12 @@ Kotlin Syntax çalışmak için yararlanabileceğiniz orta düzey sorular payla�
 
 ## Çalışma Soruları
 
-[Çalışma Soruları - 1](https://github.com/serkanalc/KotlinCalismaSorulari/tree/master/app/src/main/java/com/serkanalc/upschool) içerik ve gereksinim:
+[Çalışma Soruları - 1](https://github.com/serkanalc/KotlinCalismaSorulari/tree/master/app/src/main/java/com/serkanalc/upschool) içerik ve gereksinim (Çözümleri Paylaşıldı):
 
-- İf else yapısı
-- when yapısı
-- For While döngüsü
-- Break Continue yapısı
-- Random Fonksiyonu
+- Asal sayı kontrolü
+- Geçti kaldı hesaplama
+- Girilen sayıya göre gün hesabı
+- Sayı tahmin oyunu
 
 
 
