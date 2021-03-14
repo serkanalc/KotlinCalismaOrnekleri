@@ -1,5 +1,3 @@
-package com.serkanalc.upschool
-
 import java.util.*
 import kotlin.random.Random
 
