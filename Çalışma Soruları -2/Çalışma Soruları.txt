@@ -1,4 +1,4 @@
-Calışma Soruları -2
+Çalışma Soruları 2
 
 Vücut kitle indeksi hesaplayan bir algoritma yazınız
 
