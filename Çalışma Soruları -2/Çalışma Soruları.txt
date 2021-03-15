@@ -4,7 +4,7 @@
 # Soru 1
 
 
-Vücut kitle indeksi hesaplayan bir algoritma yazınız
+Vücut kitle indeksi hesaplayan bir algoritma yazınız:
 
         - Vücut kitle indeksi kilo/(boy*boy) şeklinde bulunur
         - Kullanıcıdan boy(cm) ve Kilo(kg) şeklinde istesin
@@ -16,12 +16,12 @@ Vücut kitle indeksi hesaplayan bir algoritma yazınız
         # 25-30 = Kilolu
         # 30-oo = Obez
 
-Örnek çıktı: vücut kitle indeksiniz 24 Normal kilodasınız
+Örnek çıktı: vücut kitle indeksiniz 24 Normal kilodasınız:
 
 
 # Soru 2
 
-Kullanıcının girdiği sayıya kadar olan tek sayıların toplamını bulduran bir algoritma yazınız
+Kullanıcının girdiği sayıya kadar olan tek sayıların toplamını bulduran bir algoritma yazınız:
 
         - Kullanıcıdan bir sayı alsın
         - 1 den girilen sayıya  kadar(sayıyı dahil etmesin) olan tek sayıları toplasın ekrana yazdırsın
@@ -31,14 +31,14 @@ Kullanıcının girdiği sayıya kadar olan tek sayıların toplamını bulduran
 
 # Soru 3
 
-Başlangıçta 500 birimlik bakiyesi bulunan ve bu bakiyeyle istenilen işlemleri yapan algoritma yazınız
+Başlangıçta 500 birimlik bakiyesi bulunan ve bu bakiyeyle istenilen işlemleri yapan algoritma yazınız:
 
         - 4 işlemi olsun bunlar para ekle, para çek, bakiye öğren, çıkış yap şeklinde adlandırılsın
-        - Para eklem işlemi seçildiğinde kullanıcıdan değer istesin girilen değeri bakiyeye ekleyip ekranda göstersin devam etmek isteyip istemediğini sorsun
+        - Para eklem işlemi seçildiğinde kullanıcıdan değer istesin, girilen değeri bakiyeye ekleyip ekranda göstersin, devam etmek isteyip istemediğini sorsun,
           seçilen seçeneğe göre tekrar işlem istesin veya uygulamayı kapatsın
-        - Para çekme işlemi seçildiğinde bakiyeden fazla olup olmadığını kontrol etsin, fazlaysa işlemi gerçekleştiremeyeceğini belirtip tekrar işlem istesin
-          fazla değilse bakiyeyi ekranda gösterip devam etmek isteyip istemediğini sorsun seçilen seçeneğe göre tekrar işlem istesin veya uygulamayı kapatsın
-        - Bakiye öğren işlemi seçildiğinde bakiyeyi ekrana göstersin devam etmek isteyip istemediğini sorsun seçilen seçeneğe göre tekrar işlem istesin veya uygulamayı kapatsın
+        - Para çekme işlemi seçildiğinde bakiyeden fazla olup olmadığını kontrol etsin, fazlaysa işlemi gerçekleştiremeyeceğini belirtip tekrar işlem istesin,,
+          fazla değilse bakiyeyi ekranda gösterip devam etmek isteyip istemediğini sorsun, seçilen seçeneğe göre tekrar işlem istesin veya uygulamayı kapatsın
+        - Bakiye öğren işlemi seçildiğinde bakiyeyi ekrana göstersin, devam etmek isteyip istemediğini sorsun, seçilen seçeneğe göre tekrar işlem istesin veya uygulamayı                   kapatsın
         - Çıkış yap işlemi seçilirse uygulamayı kapatsın
         
 Örnek çıktı:
