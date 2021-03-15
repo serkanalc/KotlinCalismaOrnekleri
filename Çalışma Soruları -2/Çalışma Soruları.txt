@@ -1,1 +1,10 @@
-�al��ma Sorular�
+Calışma Soruları -2
+
+Vücut kitle indeksi hesaplayan bir algoritma yazınız
+
+        # Vücut kitle indeksi kilo/(boy*boy) şeklinde bulunur
+        # Kullanıcıdan boy(cm) ve Kilo(kg) şeklinde istesin
+        # Boyu metre cinsine çevirsin
+        # Ekrana vücut kitle indeksini ve durumunu yazdırsın
+
+    Örnek çıktı: vücut kitle indeksiniz 24 Normal kilodasınız
