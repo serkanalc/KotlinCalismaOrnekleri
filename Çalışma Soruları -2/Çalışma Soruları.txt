@@ -1,10 +1,52 @@
-Çalışma Soruları 2
+## Kotlin Syntax Çalışma soruları - 2
+
+
+# Soru 1
+
 
 Vücut kitle indeksi hesaplayan bir algoritma yazınız
 
-        # Vücut kitle indeksi kilo/(boy*boy) şeklinde bulunur
-        # Kullanıcıdan boy(cm) ve Kilo(kg) şeklinde istesin
-        # Boyu metre cinsine çevirsin
-        # Ekrana vücut kitle indeksini ve durumunu yazdırsın
+        - Vücut kitle indeksi kilo/(boy*boy) şeklinde bulunur
+        - Kullanıcıdan boy(cm) ve Kilo(kg) şeklinde istesin
+        - Boyu metre cinsine çevirsin
+        - Ekrana vücut kitle indeksini ve durumunu yazdırsın
+        
+        # 0-20 =  Zayıf
+        # 20-25 = Ortalama
+        # 25-30 = Kilolu
+        # 30-oo = Obez
 
-    Örnek çıktı: vücut kitle indeksiniz 24 Normal kilodasınız
+Örnek çıktı: vücut kitle indeksiniz 24 Normal kilodasınız
+
+
+# Soru 2
+
+Kullanıcının girdiği sayıya kadar olan tek sayıların toplamını bulduran bir algoritma yazınız
+
+        - Kullanıcıdan bir sayı alsın
+        - 1 den girilen sayıya  kadar(sayıyı dahil etmesin) olan tek sayıları toplasın ekrana yazdırsın
+        - for veya while döngüsü kullanınız
+
+Örnek çıktı: 1 den girdiğiniz sayıya kadar olan tek sayıların toplamı: 16
+
+# Soru 3
+
+Başlangıçta 500 birimlik bakiyesi bulunan ve bu bakiyeyle istenilen işlemleri yapan algoritma yazınız
+
+        - 4 işlemi olsun bunlar para ekle, para çek, bakiye öğren, çıkış yap şeklinde adlandırılsın
+        - Para eklem işlemi seçildiğinde kullanıcıdan değer istesin girilen değeri bakiyeye ekleyip ekranda göstersin devam etmek isteyip istemediğini sorsun
+          seçilen seçeneğe göre tekrar işlem istesin veya uygulamayı kapatsın
+        - Para çekme işlemi seçildiğinde bakiyeden fazla olup olmadığını kontrol etsin, fazlaysa işlemi gerçekleştiremeyeceğini belirtip tekrar işlem istesin
+          fazla değilse bakiyeyi ekranda gösterip devam etmek isteyip istemediğini sorsun seçilen seçeneğe göre tekrar işlem istesin veya uygulamayı kapatsın
+        - Bakiye öğren işlemi seçildiğinde bakiyeyi ekrana göstersin devam etmek isteyip istemediğini sorsun seçilen seçeneğe göre tekrar işlem istesin veya uygulamayı kapatsın
+        - Çıkış yap işlemi seçilirse uygulamayı kapatsın
+        
+Örnek çıktı:
+        # 1-Para Yatırma 
+        # 2-Para Çekme 
+        # 3-Bakiye Bilgi 
+        # 0-Çıkış 
+        # Yapmak istediğiniz işlemi Seçiniz:
+        
+        
+ 
