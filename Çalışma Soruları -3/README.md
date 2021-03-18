@@ -1,4 +1,4 @@
-###
+### Kotlin Syntax Çalışma Soruları : Class & Metod Yapısı 🚀
 
 ## Soru 1 : Parametre olarak girilen kelime ve harf için kelimenin içinde kaç tane harf olduğunu bulan metodu yazınız
 
