@@ -1,0 +1,8 @@
+Soru 1 : Parametre olarak girilen kelime ve harf için kelimenin içinde kaç tane harf olduðunu bulan metodu yazýnýz
+
+	*Kelimelik adýnda bir class tanýmlayýnýz ve "harfsayar" adýnda bir metod tanýmlayýnýz
+	*Parametrelerden kelime için olan bölüme :Muvaffakiyetsizleþtiricileþtiriveremeyebileceklerimizdenmiþsinizcesine
+	*Harf için olan bölüme: e yazýnýz
+	*Kelime çok uzun olduðu için ekrana çift týrnak içerisinde yazýlsýn
+	*çýktý aþþaðýdaki gibi olmalýdýr:
+	
