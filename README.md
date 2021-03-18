@@ -11,12 +11,15 @@ Kotlin Syntax çalışmak için yararlanabileceğiniz orta düzey sorular payla�
 - Girilen sayıya göre gün hesabı
 - Sayı tahmin oyunu
 
-[Çalışma Soruları - 2](https://github.com/serkanalc/KotlinCalismaSorulari/tree/master/%C3%87al%C4%B1%C5%9Fma%20Sorular%C4%B1%20-2) içerik:
+[Çalışma Soruları - 2](https://github.com/serkanalc/KotlinCalismaSorulari/tree/master/%C3%87al%C4%B1%C5%9Fma%20Sorular%C4%B1%20-2) içerik (Çözümleri Paylaşıldı):
 
 - Vücut Kitle İndeksi bulma
 - belirlenen değere kadar olan tek sayıları toplama
 - Basic bankamatik algoritması
 
+[Çalışma Soruları - 2](https://github.com/serkanalc/KotlinCalismaSorulari/tree/master/%C3%87al%C4%B1%C5%9Fma%20Sorular%C4%B1%20-3) içerik (Çözümleri Paylaşıldı):
+
+- Kelime içerisindeki harf sayısını bulan algoritma
 
 
 
