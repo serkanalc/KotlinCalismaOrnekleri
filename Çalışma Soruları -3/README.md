@@ -8,7 +8,8 @@
   - Kelime çok uzun olduğu için ekrana çift tırnak içerisinde yazılsın
   - Çıktı aşşağıdaki gibi olmalıdır:
 
-![WhatsApp Image 2021-03-19 at 01 45 19](https://user-images.githubusercontent.com/70329389/111707298-d9f0cf00-8854-11eb-85b5-32d8c7adc531.jpeg)
+![WhatsApp Image 2021-03-19 at 01 45 19](https://user-images.githubusercontent.com/70329389/111707767-b67a5400-8855-11eb-94e1-da1a29e2d502.jpeg)
+
 
 
 
