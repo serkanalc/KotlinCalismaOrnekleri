@@ -17,7 +17,7 @@ Kotlin Syntax çalışmak için yararlanabileceğiniz orta düzey sorular payla�
 - belirlenen değere kadar olan tek sayıları toplama
 - Basic bankamatik algoritması
 
-[Çalışma Soruları - 2](https://github.com/serkanalc/KotlinCalismaSorulari/tree/master/%C3%87al%C4%B1%C5%9Fma%20Sorular%C4%B1%20-3) içerik (Çözümleri Paylaşıldı):
+[Çalışma Soruları - 3](https://github.com/serkanalc/KotlinCalismaSorulari/tree/master/%C3%87al%C4%B1%C5%9Fma%20Sorular%C4%B1%20-3) içerik (Çözümleri Paylaşıldı):
 
 - Kelime içerisindeki seçilen harf sayısını bulan algoritma
 
