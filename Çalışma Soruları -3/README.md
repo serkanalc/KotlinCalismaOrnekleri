@@ -1,6 +1,6 @@
 ## Kotlin Syntax Çalışma Soruları : Class & Metod Yapısı 🚀
 
-### Soru 1 : Parametre olarak girilen kelime ve harf için kelimenin içinde kaç tane harf olduğunu bulan metodu yazınız
+### Soru 1 : Parametre olarak girilen kelime ve harf için kelimenin içinde kaç tane seçilen harf olduğunu bulan metodu yazınız
 
   - "Kelimelik" adında bir class tanımlayınız ve "harfsayar" adında bir metod tanımlayınız
   - Parametrelerden kelime için olan bölüme :"Muvaffakiyetsizleştiricileştiriveremeyebileceklerimizdenmişsinizcesine"
