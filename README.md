@@ -19,7 +19,7 @@ Kotlin Syntax çalışmak için yararlanabileceğiniz orta düzey sorular payla�
 
 [Çalışma Soruları - 2](https://github.com/serkanalc/KotlinCalismaSorulari/tree/master/%C3%87al%C4%B1%C5%9Fma%20Sorular%C4%B1%20-3) içerik (Çözümleri Paylaşıldı):
 
-- Kelime içerisindeki harf sayısını bulan algoritma
+- Kelime içerisindeki seçilen harf sayısını bulan algoritma
 
 
 
