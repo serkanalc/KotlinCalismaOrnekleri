@@ -1,25 +1,24 @@
-# Kotlin Çalışma Soruları
-Kotlin Syntax çalışmak için yararlanabileceğiniz orta düzey sorular paylaşmaya çalışacağım, yorumlarınızı ve eklememi istediğiniz soruları bana iletirseniz birlikte bir şeyler geliştirebiliriz!
+# Hangi Google Teknolojisi Sana Göre Uygulaması 
+Tuşa tıkladıkça size Herhangi bir Google teknolojisini öneren basic pratik geliştirme uygulaması
 
+## İçerdikleri:
 
-## Çalışma Soruları
+### Layout:
+- 2 Adet Button (Başla ve Bitir Tuşları)
+- 1 ImageView
+- 1 TextView
 
-[Çalışma Soruları - 1](https://github.com/serkanalc/KotlinCalismaSorulari/tree/master/%C3%87al%C4%B1%C5%9Fma%20Sorular%C4%B1%20-1) içerik (Çözümleri Paylaşıldı):
+### Algoritma:
 
-- Asal sayı kontrolü
-- Geçti kaldı hesaplama
-- Girilen sayıya göre gün hesabı
-- Sayı tahmin oyunu
+- Başlat butonuna basıldıkça tanımlanan ImageView rastgele şekilde herhangi bir Google Teknolojisini ekrana gösterir, TextView gösterilen Google teknolojinin ismiyle değişir
+- Bitir butonuna basılınca tanımlanan ImageView kapanış için belirlediğiniz kapanış resmini ekrana bastırır.
+- Her iki tuşada basıldığında istenilen Toast görünümümnü göstersin
 
-[Çalışma Soruları - 2](https://github.com/serkanalc/KotlinCalismaSorulari/tree/master/%C3%87al%C4%B1%C5%9Fma%20Sorular%C4%B1%20-2) içerik (Çözümleri Paylaşıldı):
+## Ekran Çıktıları:
 
-- Vücut Kitle İndeksi bulma
-- belirlenen değere kadar olan tek sayıları toplama
-- Basic bankamatik algoritması
+## P.S.:
 
-[Çalışma Soruları - 3](https://github.com/serkanalc/KotlinCalismaSorulari/tree/master/%C3%87al%C4%B1%C5%9Fma%20Sorular%C4%B1%20-3) içerik (Çözümleri Paylaşıldı):
-
-- Kelime içerisindeki seçilen harf sayısını bulan algoritma
+Bu uygulama GDG Çanakkale Kotlin 101 dersi için hazırlanmış pratik amaçlı bir uygulamadır. [Videolu anlatım için bu linki kullanabilirsiniz](https://www.youtube.com/channel/UCvxEYKGV9WVMx41WW4s6OUA/featured) 
 
 
 
