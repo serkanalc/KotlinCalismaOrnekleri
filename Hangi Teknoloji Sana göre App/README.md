@@ -21,7 +21,7 @@ Tuşa tıkladıkça size Herhangi bir Google teknolojisini öneren basic pratik 
 
 ## P.S.:
 
-Bu uygulama GDG Çanakkale Kotlin 101 dersi için hazırlanmış pratik amaçlı bir uygulamadır. [Videolu anlatım için bu linki kullanabilirsiniz](https://www.youtube.com/channel/UCvxEYKGV9WVMx41WW4s6OUA/featured) 
+Bu uygulama GDG Çanakkale Kotlin 101 dersi için hazırlanmış pratik amaçlı bir uygulamadır. [Videolu anlatım için bu linki kullanabilirsiniz](https://www.youtube.com/watch?v=07OCiyYDFQ4) 
 
 
 
