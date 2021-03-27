@@ -19,7 +19,7 @@ Tuşa tıkladıkça size Herhangi bir Google teknolojisini öneren basic pratik 
 
 ![Ekran Çıktı](https://user-images.githubusercontent.com/70329389/112703652-c4a91f80-8ea8-11eb-8825-7efeb29d6a00.png)
 
-## P.S.:
+## PS:
 
 Bu uygulama GDG Çanakkale Kotlin 101 dersi için hazırlanmış pratik amaçlı bir uygulamadır. [Videolu anlatım için bu linki kullanabilirsiniz](https://www.youtube.com/watch?v=07OCiyYDFQ4) 
 
